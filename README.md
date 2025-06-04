@@ -3,7 +3,7 @@
 
 **danielgarciabr** é um  ✨ Gerente de projetos de TI ✨ especialista em Automação QA e gosta de programar 
 
-- 🔭 I’m currently working on ...
+- 🔭 Estou trabalhando como gerente de projetos de TI
 - 🌱 Estou estudando sobre Inteligência Artificial
 - 💬 Pergunte-me sobre Gestão de Projetos, Automação e QA(testes de software)
 - 📫 Meus contatos:
