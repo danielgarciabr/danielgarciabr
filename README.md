@@ -1,7 +1,7 @@
 ## Olé Pessoal 👋
 
 
-**danielgarciabr/danielgarciabr** é um  ✨ Gerente de projetos de TI ✨ especialista em Automação QA e gosta de programar 
+**danielgarciabr** é um  ✨ Gerente de projetos de TI ✨ especialista em Automação QA e gosta de programar 
 
 - 🔭 I’m currently working on ...
 - 🌱 Estou estudando sobre Inteligência Artificial
