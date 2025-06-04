@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olé Pessoal 👋
 
-<!--
-**danielgarciabr/danielgarciabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**danielgarciabr/danielgarciabr** é um  ✨ Gerente de projetos de TI ✨ especialista em Automação QA e gosta de programar 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou estudando sobre Inteligência Artificial
+- 💬 Pergunte-me sobre Gestão de Projetos, Automação e QA(testes de software)
+- 📫 Meus contatos:
+        Email: danielgarciabr@gmail.com
+        Linkedin:https://www.linkedin.com/in/danielgarciabr/
+  
+- ⚡ Curiosidade: Quando não estou programando, você provavelmente me encontrará curtindo uma praia, uma roda de samba ou na academia.
+
